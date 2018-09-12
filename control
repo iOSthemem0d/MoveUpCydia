@@ -1,0 +1,9 @@
+Package: com.smokin1337.moveupcydia
+Name: MoveUpCydia
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Move Cydia above the HomeBar for iPhone X in fullscreen mode !!
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
